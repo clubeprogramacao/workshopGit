@@ -1,0 +1,13 @@
+{
+  "name"         : "clube-de-programacao",
+  "version"      : "0.0.1",
+  "description"  : "CP - Website",
+  "main"         : "server.js",
+  "author"       : ["clubeprogramacao"],
+  "dependencies" : {
+    "express"    : "~4.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
